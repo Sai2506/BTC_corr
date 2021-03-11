@@ -1,6 +1,5 @@
 # BTC_corr
-This project was created with the help of @realHardyStocks to gain deeper insights into the markets through statistical analysis.In this project, 
-Pearson correlation coefficient is calculated between Bitcoin and the top postively & negatively coorelated equites that are in S&P 500(btc_corr).
+This project was created with the help of @realHardyStocks to gain deeper insights into the markets through statistical analysis.In this project, the Pearson correlation coefficient is calculated between Bitcoin and the top postive and negatively co-related equities in S&P 500(btc corr).
 Code for comparing different sets of equites is also provided (stock_corr).A CSV file containing all 505 S&P stocks (plus Bitcoin) data starting 1st December 2020 is provided.
 
 Credits:  <br/> pandas.pydata.org <br/>
